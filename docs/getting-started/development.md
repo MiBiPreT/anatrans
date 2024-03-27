@@ -1,7 +1,5 @@
 # `anatrans` developer documentation
 
-If you're looking for user documentation, go [here](README.md).
-
 ## Development install
 
 ```shell
@@ -115,7 +113,7 @@ This section describes how to make a release in 3 parts:
 
 ### (1/3) Preparation
 
-1. Verify that the information in [`CITATION.cff`](CITATION.cff) is correct.
+1. Verify that the information in CITATION.cff is correct.
 1. Make sure the [version has been updated](#versioning).
 1. Run the unit tests with `pytest -v`
 
